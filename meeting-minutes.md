@@ -36,6 +36,9 @@ To join a call, visit the hosts Uberconference account:
 * Issues tracking: Explore Jira
 * Walk through Use Cases
 * Exploratory diagrams
+* Roles & Responsibilities
+	* Terry: Strategic, business, technical, bizops, strategy, 
+	* Zoran: Ops, organizational, team, technical, bizops strategy
 
 Next Week
 
@@ -43,6 +46,6 @@ Next Week
 * Discuss search architecture 
 * Exploratory diagrams definition
 * Customer validation of workflow?
-	* Referral: 
+	* Referral
 	* Direct contact
 	* Cold calls
