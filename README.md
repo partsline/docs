@@ -1,9 +1,4 @@
-# Partsline Docs
+# Overview
 
-General docs, engineering and team notes for Partsline.com.
-
-# docs
-Hello world
-
-Hello Terry
+A document to collect concepts for Partsline
 
