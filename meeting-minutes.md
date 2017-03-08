@@ -31,6 +31,18 @@ To join a call, visit the hosts Uberconference account:
 
 ### Agenda
 
-* 
+* Code repository: Explore Bitbucket
+* Project planning: Explore Confluence? Or should we use Github + Markdown?
+* Issues tracking: Explore Jira
+* Walk through Use Cases
+* Exploratory diagrams
 
+Next Week
 
+* Transfer existing knowledge base to repo for cherry pick and discuss
+* Discuss search architecture 
+* Exploratory diagrams definition
+* Customer validation of workflow?
+	* Referral: 
+	* Direct contact
+	* Cold calls
