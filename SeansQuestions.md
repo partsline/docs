@@ -12,3 +12,4 @@
 	* what is the priority metric(s) for search success?
 	* are we going to open "grand" or soft?
 	* when do we want to have the conversation about money/expectations?
+	* how (where) are we going to store the code as we test it?
