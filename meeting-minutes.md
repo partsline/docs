@@ -49,3 +49,11 @@ Next Week
 	* Referral
 	* Direct contact
 	* Cold calls
+
+Future
+
+* Proposed plan for the next few weeks:
+	1. Terry migrate what you have over to google stack, and present.
+	2. We create a list of features we need and rank them by priority.
+	3. List the technical debt.
+	4. Decide on a path forward and allocate according to interest, resources, time and skill
