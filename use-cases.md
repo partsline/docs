@@ -6,7 +6,7 @@
    3. Obtain a part for vehicle tomorrow.
    4. Obtain a part for vehicle at some point.
    5. Return my part \(wrong part, don't need anymore, whatever\)
-   6. Return my old, broken part \(malicious agent\)
+   6. Return my old, broken part \(malicious agent\) (slot under risks)
 2. Suppliers need to:
    1. Sell my parts online via **Partsline**
    2. Receive an order via **Partsline**
@@ -21,9 +21,16 @@
    4. Facilitate a return
 4. **Partsline** supplier service
    1. Access supplier inventory
-   2. Notify supplier \(supplier app, email, something?\)
+   2. I/F with suppliers (pull inventory, notify. Options: chat, mobile app, web app, IMS integration, whisolutions.com)
    3. Facilitate shipping
    4. Distribute payment 
 
 ...
 
+Do we need to incorporate parts quality rating? Add the supplier notes to the selection of parts details.
+
+How do we create the pick list?
+
+Dealing with suppliers: they will have an existing fulfillment process and we need to make it low-friction. Are they going to be OK with using our I/F for shipping? How tight will our integration with their inventory management need to be?
+
+We need to find a hand full of suppliers to play ball with us, and help us prototype. Here's how we incentivise: -zero transaction fee for up to N number of transactions-

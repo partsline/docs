@@ -23,7 +23,7 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 
 **Marketing Features**
 
-* Trademark design
+* Branding
 * Google Search / Google Ads
 
 **Contracts/Legal Features**
@@ -35,7 +35,6 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 
 **Corporate Features**
 
-* Business plan
 * Accounting
 * Capital
 * Hiring or HR
@@ -44,7 +43,10 @@ We can do it either way, but we need to tailor based on team's T-skills.  We sha
 
 **Strategic**
 
+* Produce a lean business plan
+* Validate assumptions
 * Analyze competition
+* Obtain suppliers
 
 
 
