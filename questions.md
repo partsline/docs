@@ -16,12 +16,15 @@
 
 ## Data Markers / Labels
 
+Q. How should we define a target market analysis?
+
 Q. How should we define and rank geographic market areas?
+
 - Density
 - Frequency
 - Economic value
 
-Q. What signals should we use to help identify and segment potential consumers?
+Q. What factors should we use to help identify and segment potential consumers?
 
 - Duplicate requests
 - Frequency of requests
