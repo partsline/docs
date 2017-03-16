@@ -57,3 +57,20 @@ Future
 	2. We create a list of features we need and rank them by priority.
 	3. List the technical debt.
 	4. Decide on a path forward and allocate according to interest, resources, time and skill
+
+## 03/15/17
+
+* Confirm GSuite account
+* Confirm Google Drive access
+* Discuss data assets
+	* RFQ customer requests
+	* Supplier lists (Car-part.com, ARA, Hollander Eden)
+* Discuss how Partsline receives RFQs
+* General Q/A on industry and supplier process / needs
+
+## 03/16/17
+
+Topics
+
+- Current Partsline transaction flow 
+	- https://drive.google.com/open?id=0B4HHTi5Wjn37cnRVMk5RRmJlMmc
