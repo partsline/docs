@@ -13,3 +13,24 @@
 	* are we going to open "grand" or soft?
 	* when do we want to have the conversation about money/expectations?
 	* how (where) are we going to store the code as we test it?
+
+## Data Markers / Labels
+
+Q. How should we define and rank geographic market areas?
+- Density
+- Frequency
+- Economic value
+
+Q. What signals should we use to help identify and segment potential consumers?
+
+- Duplicate requests
+- Frequency of requests
+- Market Area 
+- Vehicle price (determined by YMM)
+- Address analysis: 
+	- FIPS code instead of county-level analysis
+- Email analysis
+	- Find social profiles: [http://who-is-this.appspot.com](http://who-is-this.appspot.com)
+	- Rank influence
+- Phone number segmentation
+	- Landlines vs mobile
