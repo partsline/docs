@@ -111,22 +111,36 @@ Thoughts on release cycles:
 * Go upstream and bring cars to recyclers! Enable regular folks to get real quotes for their vehicles, provide a tow service, and charge $$$ for that shit.
 * Possibly consider "Auction for Clunkers" or "junkmycar.com"
 
-Techincal stuff
+Technical stuff
 
-* Spyders on Rackspace
+* Spiders on Rackspace
 * Automotix, provides a request service, while competing with suppliers. It is a front end for LKQCorp
-* Sean is asking good detailed questoins about how to find parts, and how does the automotix messaging app work.
-* The Home Depot threat "I dont want to come back now, ya hear"
-* Upsell tooling, instalation manual, specilized part, whatever
+* Sean is asking good detailed questions about how to find parts, and how does the automotix messaging app work.
+* The Home Depot threat "I don't want to come back now, ya hear"
+* Upsell tooling, installation manual, specialized part, whatever
 
 
 
 
 ## 03/16/17
 
-Topics
+### Agenda 
 
+- Asana
 - Current Partsline transaction flow 
-	- https://drive.google.com/open?id=0B4HHTi5Wjn37cnRVMk5RRmJlMmc
+	- [https://drive.google.com/open?id=0B4HHTi5Wjn37cnRVMk5RRmJlMmc](https://drive.google.com/open?id=0B4HHTi5Wjn37cnRVMk5RRmJlMmc)
+- Start documenting the various data providers
+	- Tracking here: [https://docs.google.com/spreadsheets/d/1H1-g_P-bOED1DzLhTZlMoC6ebW_IAxwaFJiPG8OOsz8/edit#gid=0](https://docs.google.com/spreadsheets/d/1H1-g_P-bOED1DzLhTZlMoC6ebW_IAxwaFJiPG8OOsz8/edit#gid=0)
 
+## 03/22/17
 
+### Agenda 
+
+- General discussion on buyer pains
+- Payment provider strategy
+	- [Stripe Connect](https://stripe.com/connect)?
+	- [BlueSnap for Marketplaces](https://home.bluesnap.com/payments-for-marketplaces/)
+	- Zipmark [https://www.zipmark.com/deposit](https://www.zipmark.com/deposit)
+- Shipping providers
+	- [EasyPost.com](https://www.easypost.com/products.html)
+	- Shippo has an excellent API - [https://goshippo.com/](https://goshippo.com/)
