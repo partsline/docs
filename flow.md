@@ -20,6 +20,7 @@ Exploratory diagrams:
 1. Anatomy of the escrow
 2. Notification system
 3. Checkout process flow - search to payment
+    * If searh query returns no matches, we provide the option for partsline to do a watchdog search for the customer
 4. Using google for querys. Search engine.
 
 
